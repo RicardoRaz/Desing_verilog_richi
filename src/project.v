@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module design_project_IEEE(
+module tt_um_design_project_IEEE(
 	input clk,				//Señal de reloj
 	input rst_n,			//SEñal de reset
     input [1:0]		ui_in,    //Señal de entradas y cambio de direcciones
